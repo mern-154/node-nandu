@@ -1,4 +1,8 @@
-const { USER_WELCOME_MSG, USER_FOUND, USER_NOT_FOUND } = require("../constants/common");
+const {
+  USER_WELCOME_MSG,
+  USER_FOUND,
+  USER_NOT_FOUND,
+} = require("../constants/common");
 const { success } = require("../helpers/Responce");
 const { Users } = require("../models/usersModels");
 

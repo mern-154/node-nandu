@@ -6,3 +6,6 @@ exports.USER_NOT_FOUND = "User Not Found.";
 
 exports.PRODUCT_FOUND = " Product Found .";
 exports.PRODUCT_NOT_FOUND = " Product Not Found .";
+exports.LOGIN_MSG = "LOGIN SUCCESSFULL.";
+exports.LOGIN_FAIL_PASS_MSG = "LOGIN FAILED & PASSWORD NOT MATCHED!!.";
+exports.LOGIN_FAIL_EMAIL_MSG = "LOGIN FAILED & EMAIL NOT MATCHED!!.";

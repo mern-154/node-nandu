@@ -23,3 +23,5 @@ exports.detail = (req, res) => {
 
   return success({ res, msg: USER_FOUND, data: data[0], status: 200 });
 };
+
+

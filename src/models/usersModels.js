@@ -10,6 +10,7 @@ exports.Users = [
     Dept: "ECE",
     name: "nandu",
     email: "nandu@gmail.com",
+    password:"nandu",
   },
   {
     id: 1020,

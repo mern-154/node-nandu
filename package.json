@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mern-154/nandu-routes.git"
+    "url": "git+https://github.com/mern-154/node-nandu.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/mern-154/nandu-routes.git"
+    "url": "https://github.com/mern-154/node-nandu.git"
   },
-  "homepage": "https://github.com/mern-154/node-routes#readme",
+  "homepage": "https://github.com/mern-154/node-nandu#readme",
   "dependencies": {
     "cors": "^2.8.5",
     "dotenv": "^16.0.2",
